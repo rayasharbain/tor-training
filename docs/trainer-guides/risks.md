@@ -1,0 +1,47 @@
+---
+sidebar_position: 5
+---
+
+# Risks
+
+To our knowledge, no Tor trainer has ever faced consequences as a result of training others or speaking about Tor.
+However, in some countries and in certain circumstances, it's possible that simply a gathering as human rights defenders could be risky, illegal, or even lead to imprisonment, physical assaults, large fines, threats, placement on government watch lists, and targeting for surveillance.
+
+If you want to run a Tor training for the first time and you don't know how to assess the political and social environment, we strongly encourage you read this document and, in case of doubt, to reach out to the Tor Community Team privately.
+
+Some potential risks of running a digital security training are only valid in specific contexts.
+The potential risks associated with running a Tor training depend on:
+
+1. **Your threat model.** A high-profile activist already under a lot of surveillance, for example, might attract more attention when reaching out to other activists to run a digital security training.
+2. **The laws and regulations in the country.** Consult with local lawyers and local freedom of expression organizations and learn whether your country has a record in prosecuting individuals engaging in similar types of activities.
+3. **The types of training.** Not all trainings carry the same weight in terms of potential risk.
+   For example, talking about privacy in the digital age might be appreciated, but teaching how to circumvent government censorship could be a serious felony.
+4. **The audience.** Gathering university students might not attract attention, but if you're gathering a group of journalists working with leaked documents about government corruption, you might need to take extra care to reach out to them in a private way.
+5. **The training venue.** Running a Tor training in some spaces could expose your participants' identities.
+   Ideally, you should use a private space where you control the participants' entrance.
+   If the space isn't private, check before the training to find out if participants are comfortable with revealing their identity to a third party.
+
+## Evaluating risks
+
+Some questions you may want to answer before running a digital security training include:
+
+* Has anyone in my country ever been criminalized based on their internet activity? (This does not necessarily need to be specific to digital security training or use of Tor.)
+* Are there laws in my country that require Internet Service Providers (ISPs) to track my online activity?
+* Is it illegal for me to access certain websites?
+* Does my country prohibit me from using:
+  * Cryptography?
+  * Anonymity software?
+
+Note, this is not an exhaustive list of questions.
+
+Additionally, while many countries do not have laws specifically prohibiting the activity of running a digital security training, the use of digital security tools may still be criminalized in certain countries under other, broader laws.
+For example, using Tor Browser may be viewed as illegal or anti-government activity.
+
+Please note that we are not lawyers, and any information we give you does not constitute legal advice.
+Additionally, your communication with us is not protected by any legal privilege, so law enforcement may subpoena and obtain any information you give us.
+However, we may be able to put you in touch with lawyers who are capable of addressing your questions and/or concerns.
+
+Some relevant resources include:
+  * [EFF Know your rights](https://www.eff.org/issues/know-your-rights)
+  * [EFF Tor legal FAQ](../../relay/community-resources/eff-tor-legal-faq/)
+  * [OONI disclaimer](https://ooni.org/about/risks/)
